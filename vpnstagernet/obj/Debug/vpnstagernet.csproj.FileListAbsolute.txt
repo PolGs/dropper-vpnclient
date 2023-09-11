@@ -1,0 +1,10 @@
+D:\MY FILES\VS Projects\vpnstagernet\bin\Debug\vpnstagernet.exe.config
+D:\MY FILES\VS Projects\vpnstagernet\bin\Debug\vpnstagernet.exe
+D:\MY FILES\VS Projects\vpnstagernet\bin\Debug\vpnstagernet.pdb
+D:\MY FILES\VS Projects\vpnstagernet\obj\Debug\vpnstagernet.csproj.AssemblyReference.cache
+D:\MY FILES\VS Projects\vpnstagernet\obj\Debug\vpnstagernet.Form1.resources
+D:\MY FILES\VS Projects\vpnstagernet\obj\Debug\vpnstagernet.Properties.Resources.resources
+D:\MY FILES\VS Projects\vpnstagernet\obj\Debug\vpnstagernet.csproj.GenerateResource.cache
+D:\MY FILES\VS Projects\vpnstagernet\obj\Debug\vpnstagernet.csproj.CoreCompileInputs.cache
+D:\MY FILES\VS Projects\vpnstagernet\obj\Debug\vpnstagernet.exe
+D:\MY FILES\VS Projects\vpnstagernet\obj\Debug\vpnstagernet.pdb
